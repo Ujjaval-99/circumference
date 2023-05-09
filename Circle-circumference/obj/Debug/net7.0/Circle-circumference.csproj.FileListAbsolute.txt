@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Promact Trainning\Circle-circumference\Circle-circumference\bin\Debug\net7.0\Circle-circumference.exe
+C:\Users\admin\Desktop\Promact Trainning\Circle-circumference\Circle-circumference\bin\Debug\net7.0\Circle-circumference.deps.json
+C:\Users\admin\Desktop\Promact Trainning\Circle-circumference\Circle-circumference\bin\Debug\net7.0\Circle-circumference.runtimeconfig.json
+C:\Users\admin\Desktop\Promact Trainning\Circle-circumference\Circle-circumference\bin\Debug\net7.0\Circle-circumference.dll
+C:\Users\admin\Desktop\Promact Trainning\Circle-circumference\Circle-circumference\bin\Debug\net7.0\Circle-circumference.pdb
+C:\Users\admin\Desktop\Promact Trainning\Circle-circumference\Circle-circumference\obj\Debug\net7.0\Circle-circumference.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Promact Trainning\Circle-circumference\Circle-circumference\obj\Debug\net7.0\Circle-circumference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Promact Trainning\Circle-circumference\Circle-circumference\obj\Debug\net7.0\Circle-circumference.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Promact Trainning\Circle-circumference\Circle-circumference\obj\Debug\net7.0\Circle-circumference.AssemblyInfo.cs
+C:\Users\admin\Desktop\Promact Trainning\Circle-circumference\Circle-circumference\obj\Debug\net7.0\Circle-circumference.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Promact Trainning\Circle-circumference\Circle-circumference\obj\Debug\net7.0\Circle-circumference.dll
+C:\Users\admin\Desktop\Promact Trainning\Circle-circumference\Circle-circumference\obj\Debug\net7.0\refint\Circle-circumference.dll
+C:\Users\admin\Desktop\Promact Trainning\Circle-circumference\Circle-circumference\obj\Debug\net7.0\Circle-circumference.pdb
+C:\Users\admin\Desktop\Promact Trainning\Circle-circumference\Circle-circumference\obj\Debug\net7.0\Circle-circumference.genruntimeconfig.cache
+C:\Users\admin\Desktop\Promact Trainning\Circle-circumference\Circle-circumference\obj\Debug\net7.0\ref\Circle-circumference.dll
